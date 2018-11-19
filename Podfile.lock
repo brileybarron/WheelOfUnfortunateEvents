@@ -1,0 +1,16 @@
+PODS:
+  - CLTimer (0.1.4)
+
+DEPENDENCIES:
+  - CLTimer
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CLTimer
+
+SPEC CHECKSUMS:
+  CLTimer: fdb92f944aa8ee7e1edd0fed6032d836c65ebdef
+
+PODFILE CHECKSUM: b1086a2f28dcedf9af7a0e02a00882dedf88794e
+
+COCOAPODS: 1.5.3
